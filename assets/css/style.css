@@ -1,0 +1,26 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.gifs{
+    padding: 20px;
+    float: left;
+}
+
+.gif-dump{
+    padding-top: 50px;
+}
+
+#cars-form{
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    text-align: center;
+}
